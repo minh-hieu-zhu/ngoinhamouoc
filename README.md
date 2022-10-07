@@ -1,3 +1,4 @@
 "# ngoinhamouoc" 
 "# chuyendoinhietdo" 
 "# chuyendoitiente" 
+"# displayInformation" 
