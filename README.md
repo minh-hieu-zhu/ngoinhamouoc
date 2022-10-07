@@ -3,3 +3,4 @@
 "# chuyendoitiente" 
 "# displayInformation" 
 "# displayInformation" 
+"# information" 
